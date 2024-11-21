@@ -1,0 +1,37 @@
+p{color: blueviolet;}
+
+/*who{what:how;}*/
+
+h1{color:aquamarine}
+h2{color:beige}
+h2{color: brown;}
+
+ol{color:powderblue}
+ul{color:yellowgreen}
+
+
+a{/*links*/}
+p{/*paragraphs*/}
+ul{/*unordered lists*/}
+li{/*list items*/}
+
+#tagline{color: orange;}
+<h1 id="tagline">This is heading will be blue.</h1>
+
+
+list{color: aqua;}
+.red{
+    boarder-style:dotted;
+    color:blue
+
+
+}
+      
+# header{
+          color: blue;
+         text-align:center;
+
+
+
+
+}
